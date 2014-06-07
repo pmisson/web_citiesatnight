@@ -96,7 +96,7 @@
             <div class="carousel-caption">
               <h1>Una Tierra de Noche, bajo un solo Firamento</h1>
               <p>En esta página web puedes encontrar una galeria de imágenes nocturnas de ciudades de todo el planeta. Esta galeria tiene como objetivo mostrar cuanto hemos cambiado en ecosistema nocturno y mostrar que aspecto tiene la humanidad desde el espacio.</p>
-              <p><a class="btn btn-lg btn-primary" href="http://www.nightcitiesiss.org" role="button"> Galería</a></p>
+              <p><a class="btn btn-lg btn-primary" href="#gallery" role="button"> Galería</a></p>
             </div>
           </div>
         </div>
@@ -141,8 +141,8 @@
         <div class="col-lg-4">
           <!<img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
           <h2>Ciudades en la Noche</h2>
-          <p>Desde 2003, los astronautas han tomado fotos desde la Estación Espacial Internacional. Muchas de estas imágenes han sido públicadas por diferentes medios de comunicación e internet. Sin embargo, la mayoria de las imágenes no han sido publicadas y permanecen en el archivo sin haber sido mostradas al mundo. Hemos hecho una selección en esta <a href="http://www.nightcitiesiss.org">galeria</a> para mostrar más de mil ejemplos de ciudades durante la noche. Sin embargo,  aun permanecen cientos de miles de imágenes por descubrir. <a href="http://www.crowcrafting.org/app/darkskies/">¡¡Ayudanos!!</a> </p>
-          <p><a class="btn btn-default" href="http://www.nightcitiesiss.org" role="button">View details &raquo;</a></p>
+          <p>Desde 2003, los astronautas han tomado fotos desde la Estación Espacial Internacional. Muchas de estas imágenes han sido públicadas por diferentes medios de comunicación e internet. Sin embargo, la mayoria de las imágenes no han sido publicadas y permanecen en el archivo sin haber sido mostradas al mundo. Hemos hecho una selección en esta <a href="#gallery">galeria</a> para mostrar más de mil ejemplos de ciudades durante la noche. Sin embargo,  aun permanecen cientos de miles de imágenes por descubrir. <a href="http://www.crowcrafting.org/app/darkskies/">¡¡Ayudanos!!</a> </p>
+          <p><a class="btn btn-default" href="#gallery" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <!<img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
