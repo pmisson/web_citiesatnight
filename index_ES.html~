@@ -83,6 +83,7 @@
                 <li><a href="index_DE.html">DE</a></li>
                 <li><a href="index_PR.html">PR</a></li>
                 <li><a href="index_AR.html">AR</a></li>
+                <li><a href="index_PT.html">PT</a></li>
                 <li><a href="https://github.com/pmisson/web_citiesatnight">Edit on Github</a></li>                
               </ul>
             </div>
@@ -156,7 +157,7 @@
         <div class="col-lg-4">
           <!<img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
           <h2>Ciudades en la Noche</h2>
-          <p>Desde 2003, los astronautas han tomado fotos desde la Estación Espacial Internacional. Muchas de estas imágenes han sido públicadas por diferentes medios de comunicación e internet. Sin embargo, la mayoria de las imágenes no han sido publicadas y permanecen en el archivo sin haber sido mostradas al mundo. Hemos hecho una selección en esta <a href="#gallery">galeria</a> para mostrar más de mil ejemplos de ciudades durante la noche. Sin embargo,  aun permanecen cientos de miles de imágenes por descubrir. <a href="http://www.crowcrafting.org/app/darkskies/">¡¡Ayudanos!!</a> </p>
+          <p>Desde 2003, los astronautas han tomado fotos desde la Estación Espacial Internacional. Muchas de estas imágenes han sido públicadas por diferentes medios de comunicación e internet. Sin embargo, la mayoria de las imágenes no han sido publicadas y permanecen en el archivo sin haber sido mostradas al mundo. Hemos hecho una selección en esta <a href="#gallery">galeria</a> para mostrar más de mil ejemplos de ciudades durante la noche. Sin embargo,  aun permanecen cientos de miles de imágenes por descubrir. <a href="http://crowdcrafting.org/app/darkskies/">¡¡Ayudanos!!</a> </p>
           <p><a class="btn btn-default" href="#gallery" role="button">Más detalles &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
@@ -170,10 +171,30 @@
           <!<img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
           <h2>Ciencia ciudadana</h2>
           <p>La ciencia ciudadana es una herramienta para la investigación científica y para la educación. Mientras nos ayudas a clasificar miles de imágenes tomadas por astronautas, puedes aprender geografía y como es la tierra de noche. Los humanos somos mucho más eficientes que los ordenadores en el reconocimiento de patrones. Por lo que cualquier ciudadano puede realizar una contribución significativa.</p>
-          <p>Nosotros necesitamos volutntarios para clasificar las imágenes e identificar la posicion que aparece en las imágenes para crear mapas de contaminación lumínica. Ello ayudará a los gobiernos y a las autoridades locales a realizar las decisiones correctas para reducir la contaminación lumínica.</p>
-          <p><a class="btn btn-default" href="http://www.crowcrafting.org/app/darkskies/" role="button">Más detalles&raquo;</a></p>
+          <p>Nosotros necesitamos voluntarios para clasificar las imágenes e identificar la posicion que aparece en las imágenes para crear mapas de contaminación lumínica. Ello ayudará a los gobiernos y a las autoridades locales a realizar las decisiones correctas para reducir la contaminación lumínica.</p>
+
+          <p><a class="btn btn-default" href="http://crowdcrafting.org/app/darkskies/" role="button">Más detalles&raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
+
+
+      <div class="row">
+        <div class="col-lg-4">
+          <!<img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
+          <h2>Localización de Ciudades</h2>
+          <p>Una vez identificadas las imágenes nocturnas, en muchas de ellas no conocemos a qué ciudad corresponden. Con esta aplicación puedes ayudarnos a identificar a qué parte del planeta corresponde</p>
+          <p>Es muy sencillo, solo tienes que pulsar sobre la imagen y el mapa que lo localiza</p>
+          <p><a class="btn btn-default" href="http://crowdcrafting.org/app/LostAtNight" role="button" target="_blank">Accede a la aplicación &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <!<img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
+          <h2>Georreferenciación de Ciudades</h2>
+          <p>Este es el último paso. Una vez identificadas las ciudades, el último paso es georreferenciarlas. Es un proceso importante en el que identificar algún punto significativo sobre la imagen y hacerlo corresponder con el mapa. Esto nos permitirá hacer estudios de distribución y consumo energetico</p>
+          
+          <p><a class="btn btn-default" href="http://crowdcrafting.org/app/nightcitiesiss/" role="button">Accede a la aplicación&raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+      </div><!-- /.row -->
+
 
 
       <!-- START THE FEATURETTES -->
@@ -183,7 +204,7 @@
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">¿Quieres ver que ven los astronautas desde el espacio?<span class="text-muted">Ven con nosotros y descubre la oche como nunca lo hiciste antes.</span></h2>
-          <p class="lead">Tu puedes explorar con nosotros el <a href="http://eol.jsc.nasa.gov/" target="_blank">archivo</a> de las imágenes tomadas desde la Estación Espacial Internacional. Tambien puedes contribuir a <a href="http://www.crowcrafting.org/app/darkskies/"> crear un mapa del mundo de noche en color</a>.</p>
+          <p class="lead">Tu puedes explorar con nosotros el <a href="http://eol.jsc.nasa.gov/" target="_blank">archivo</a> de las imágenes tomadas desde la Estación Espacial Internacional. Tambien puedes contribuir a <a href="http://crowdcrafting.org/app/darkskies/"> crear un mapa del mundo de noche en color</a>.</p>
         </div>
         <div class="col-md-5">
           <!<img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
@@ -229,14 +250,23 @@
          <p>Original en <a href="http://www.nightcitiesiss.org"> http://www.nightcitiesiss.org</a>. 
         </div>
       </div>
-
+      <div class="row featurette">
+        <div class="col-md-8">
+          <h1> <a name="galleryLost">Ayudanos a localizar ciudades</a></h1>
+          <p>El primer paso para georeferenciar una imagen es localizar que ciudad aparece en la imagen. Aquí podeis encontrar las imágenes en la posición que fueron tomadas desde la ISS. Pincha en cualquier punto rojo y despues en el enlace para comenzar a identificar ciudades en  <a href="http://crowdcrafting.org/app/LostAtNight">http://crowdcrafting.org/app/LostAtNight</a></p>
+         <iframe width="800" height="400" scrolling="no" frameborder="no"
+src="https://www.google.com/fusiontables/embedviz?q=select+col2+from+1lZPlhsxYmxiNhbGGFg3rb0HtuKNoMQFjgtFDSDjw&amp;viz=MAP&amp;h=false&amp;lat=12.919488393199961&amp;lng=-33.79786718750006&amp;t=1&amp;z=2&amp;l=col2&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG"></iframe>
+         <p>Para su uso por favor citar: Alejandro Sánchez de Miguel, José Gómez Castaño, Jaime Zamorano, Christopher CM Kyba, Sergio Pascual,M Ángeles, L Cayuela, Guillermo Martín Martinez and Peter Challupner, Atlas of astronaut photos, of Earth at night, News and Reviews in Astronomy & Geophysics, Vol. 55 no4. August 2014 (en prensa).</p>
+         
+        </div>
+      </div>
        <div class="row featurette">
         <div class="col-md-8">
           <h1> <a name="gallery">Ayudanos a georeferenciar ciudades</a></h1>
           <p>Pincha en cualquer localización y accede a nuestra aplicación de georeferenciacoón. Selecciona puntos en la imágenes de la ISS y encuentra las mismas localizaciones en el mapa. Esta información nos permite indentificar correctamente las estructuras de la iudad. La aplicacción original esta en
             <a href="http://crowdcrafting.org/app/nightcitiesiss">http://crowdcrafting.org/app/nightcitiesiss</a></p>
          <iframe width="800" height="400" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col1+from+1QcbZD-ygKUqgUrz3GfH0PZLW467zTZwLse0fnmx2&amp;viz=MAP&amp;h=false&amp;lat=12.919488393199961&amp;lng=-33.79786718750006&amp;t=1&amp;z=2&amp;l=col1&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG"></iframe>
-         <p>Para su uso por favor citar: -Alejandro Sánchez de Miguel, José Gómez Castaño, Jaime Zamorano, Christopher CM Kyba, Sergio Pascual,M Ángeles, L Cayuela, Guillermo Martín Martinez and Peter Challupner, Atlas of astronaut photos, of Earth at night, News and Reviews in Astronomy & Geophysics, Vol. 55 no4. August 2014 (in press).</p>
+         <p>Para su uso por favor citar: -Alejandro Sánchez de Miguel, José Gómez Castaño, Jaime Zamorano, Christopher CM Kyba, Sergio Pascual,M Ángeles, L Cayuela, Guillermo Martín Martinez and Peter Challupner, Atlas of astronaut photos, of Earth at night, News and Reviews in Astronomy & Geophysics, Vol. 55 no4. August 2014 (en prensa).</p>
          
         </div>
       </div>
