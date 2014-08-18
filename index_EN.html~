@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="ico/favicon.ico">
 
-    <title>St&auml;dte in der Nacht form the ISS</title>
+    <title>Cities at Night from the ISS</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -40,27 +40,27 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="#">St&auml;dte in der Nacht</a>
+              <a class="navbar-brand" href="#">Cities at Night</a>
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li class="active"><a href="#">Start</a></li>
-                <li><a href="http://guaix.fis.ucm.es/node/1651" target="_blank">&uuml;ber</a></li>
-                <li><a href="https://docs.google.com/forms/d/1afaLK3T3d1AGqWUhd-qT-fRqc8LURbYiJCKw5wkUKVQ/viewform" target="_blank">Kontakt</a></li>
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="http://guaix.fis.ucm.es/node/1651">About</a></li>
+                <li><a href="https://docs.google.com/forms/d/1afaLK3T3d1AGqWUhd-qT-fRqc8LURbYiJCKw5wkUKVQ/viewform">Contact</a></li>
                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">F&ouml;derung<b class="caret"></b></a>
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Supporters<b class="caret"></b></a>
                   <ul class="dropdown-menu">
                     <li class="divider"></li>
-                    <li class="dropdown-header">Wissenschaftler/innen</li>
-                    <li><a href="http://guaix.fis.ucm.es/DarkSkies" target="_blank">DarkSkies UCM group (GUAIX-UCM)</a></li>
-                    <li><a href="http://guaix.fis.ucm.es/splpr/" target="_blank">REECL</a></li>
-                    <li><a href="http://www.cost-lonne.eu/" target="_blank">LoNNe Network</a></li>
+                    <li class="dropdown-header">Science supporters</li>
+                    <li><a href="http://guaix.fis.ucm.es/DarkSkies">DarkSkies UCM group (GUAIX-UCM)</a></li>
+                    <li><a href="http://guaix.fis.ucm.es/splpr/">REECL</a></li>
+                    <li><a href="http://www.cost-lonne.eu/">LoNNe Network</a></li>
                     <li class="divider"></li>
-                    <li class="dropdown-header">interessierte B&uuml;rger/innen</li>
-                    <li><a href="http://comunidad.medialab-prado.es/es/proyectos/dark-skies-iss" target="_blank">MediaLab-Prado</a></li>
-                    <li><a href="http://www.celfosc.org/" target="_blank">Celfosc</a></li>
-                    <li><a href="http://www.darksky.org/" target="_blank">International Dark-Sky Association</a></li>
-                    <li><a href="http://guaix.fis.ucm.es/node/1651" target="_blank">Detail Contributions</a></li>
+                    <li class="dropdown-header">Citizen supporters</li>
+                    <li><a href="http://comunidad.medialab-prado.es/es/proyectos/dark-skies-iss">MediaLab-Prado</a></li>
+                    <li><a href="http://www.celfosc.org/">Celfosc</a></li>
+                    <li><a href="http://www.darksky.org/">International Dark-Sky Association</a></li>
+                    <li><a href="http://guaix.fis.ucm.es/node/1651">Detail Contributions</a></li>
                   </ul>
                 </li>
                 <li><a href="index_EN.html">EN</a></li>
@@ -108,12 +108,9 @@
 	  <img src="img/Carrusel1_spain.jpg" atl="Iberian Peninsula at Night" height: 650>
           <div class="container">
             <div class="carousel-caption">
-              <h1>Eine Erde bei Nacht, unter einem Himmel</h1>
-              <p>Auf diesen Seiten finden Sie eine Galerie von weltweiten St&auml;dten
-    bei Nacht. Die Bilder verdeutlichen wie sehr wir das n&auml;chtliche
-    &Ouml;kosystem schon ver&auml;ndert haben und auch, wie die
-    Menschheit von Weltall aus sichtbar ist.</p>
-              <p><a class="btn btn-lg btn-primary" href="#gallery" role="button"> Hier geht es zur Galerie</a></p>
+              <h1>One Earth at Night, under One Sky</h1>
+              <p>On this web site you can find one gallery of cities over the world at night. This gallery have been compiled to show how much we have changed the ecosystem of the night and also how the humanity looks from the Space.</p>
+              <p><a class="btn btn-lg btn-primary" href="#gallery" role="button"> Check the gallery</a></p>
             </div>
           </div>
         </div>
@@ -122,13 +119,9 @@
 	  <img src="img/Carrusel2_skyline.jpg" atl="Skyline of Madrid" height: 1000>
           <div class="container">
             <div class="carousel-caption">
-              <h1>Lichtverschmutzung ist ein Problem f&uuml;r uns alle.</h1>
-              <p>Viele Studien haben gezeigt, das sich Lichtverschmutzung auf die
-    menschliche Gesundheit, den Verlust der biologischen Vielfalt, auf
-    ein vorget&auml;uschtes Sicherheitsgef&uuml;hl im Stra&szlig;enverkehr,
-     dieVerschwendung von Energie und Ressourcen und dem Verlust eines
-    kulturellen Welterbes auswirkt.</p>
-              <p><a class="btn btn-lg btn-primary" href="https://www.youtube.com/watch?v=YTIrx20nJcM" role="button" target="_blank">Erfahren Sie mehr</a></p>
+              <h1>Light Pollution is a problem for all.</h1>
+              <p>Many studies had proved how light pollution afects to Air pollution, Human health, losse of biodiversity, lack of road traffic safety, fake street safety, waste of energy and resources and loss of cultural world heritage.</p>
+              <p><a class="btn btn-lg btn-primary" href="https://www.youtube.com/watch?v=dd82jaztFIo" role="button">Learn more</a></p>
             </div>
           </div>
         </div>
@@ -137,15 +130,10 @@
 	  <img src="img/Carrusel3_canon2.jpg" atl="Pekin light pollution" height: 1000>
           <div class="container">
             <div class="carousel-caption">
-              <h1>Mit jedem Stern k&ouml;nnen wir eine Galaxie entstehen lassen.</h1>
-              <h2>Helfen Sie uns, gegen die Lichtverschmutzung
-      zu k&auml;mpfen und entdecken Sie die Welt bei Nacht.</h2>
-              <p>Die Wissenschaft hat nur begrenzte Ressourcen zur Verf&uuml;gung
-    um die unglaubliche Menge an Lichtverschmutzungsdaten genauer zu
-    untersuchen. Wir alle zusammen aber k&ouml;nnen helfen die Welt zu
-    ver&auml;ndern.</p>
-              <h1>helfen Sie
-    mit! </h1>
+              <h1>Star by Star we can make a Galaxy.</h1>
+              <h2>Help us to fight against the light pollution and discover the Earth at night.</h2>
+              <p>Science have limited resources to study the incredible amount of light pollution data that we have. But working together, we can change the world.</p>
+              <h1>Help us</h1>
               <p><a class="btn btn-lg btn-primary" href="http://crowdcrafting.org/app/darkskies/" role="button">Classify images</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a class="btn btn-lg btn-primary" href="http://crowdcrafting.org/app/nightcitiesiss/" role="button">Make a map</a></p>
             </div>
           </div>
@@ -154,6 +142,7 @@
       <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
       <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
     </div><!-- /.carousel -->
+
 
 
 
@@ -167,54 +156,43 @@
       <div class="row">
         <div class="col-lg-4">
           <!<img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
-          <h2>St&auml;dte bei Nacht</h2>
-          <p>Seit 2003 haben die Astronauten von der Internationalen
-  Raumstation Fotos von der Erde gemacht. Viele dieser Bilder wurden
-  bereits durch die zust&auml;ndigen Organisationen und auf Twitter
-  direkt durch die Astronauten ver&ouml;ffentlicht. Die meisten Bilder
-  schlummern jedoch noch unver&ouml;ffentlicht einem Archiv. Wir haben
-  eine Auswahl in dieser  <a href="#gallery">Galerie,</a> es gibt
-  jedoch noch hunderttausende von Bildern in dem Archiv zu entdecken. <a href="http://crowdcrafting.org/app/darkskies/">So k&ouml;nnen
-  Sie mithelfen.</a> </p>
-          <p><a class="btn btn-default" href="#gallery" role="button">Details anzeigen &raquo;</a></p>
+          <h2>Cities at Night</h2>
+          <p>Since 2003, the astronauts have been taking photos from the International Space Station. Many of these images have been published on the websites of participating agencies or the Twitter accounts of the astronauts. However, most of the images taken by astronauts have not been published remaining on archive without being shown to the world. We have added a section to this <a href="#gallery">gallery</a> dedicated to displaying more than a thousand examples of images of cities at night. However, there are still hundreds of thousands of images on file to discover. <a href="http://crowdcrafting.org/app/darkskies/">You can help.</a> </p>
+          <p><a class="btn btn-default" href="#gallery" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <!<img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
-          <h2>Lichtverschmutzung</h2>
-          <p>Lichtverschmutzung f&uuml;hrt zu erheblichen Problemen. Seine
-  Wirkung kann von unseren Schlafzimmern bis hunderte von Kilometern
-  entfernt gemessen werden. Das Licht zerst&ouml;rt die Dunkelheit der
-  Nacht. Viele Menschen haben Angst vor der Dunkelheit, aber zu viel
-  Licht erzeugt auch negative Auswirkungen auf das &Ouml;kosystem und
-  unsere Gesundheit.</p>
-          <p>Satellitenbilder helfen uns die n&auml;chtliche Beleuchtung &uuml;ber
-  gro&szlig;e Gebiete zu messen und zu vergleichen. Mit den
-  Farbbildern der  Astronauten von der Internationalen Raumstation
-  k&ouml;nnen wir die Beleuchtungseffizienz vieler St&auml;dte auf der
-  Welt zu vergleichen.</p>
-          <p><a class="btn btn-default" href="http://guaix.fis.ucm.es/DarkSkies" role="button">Details anzeigen &raquo;</a></p>
+          <h2>Light pollution</h2>
+          <p>Light pollution causes serious problems. Its effects can be measured from the inside of our bedroom to hundreds of kilometers away. The light destroys the essence of the evening darkness. Humans have an ancestral fear of the dark, but too much light produces very negative effects on the ecosystem and our health.</p>
+          <p>Satellite images help us measure and compare large illuminate areas. With the colors of the images taken by astronauts on the International Space Station, we can measure the efficiency of lighting in many cities on the planet.</p>
+          <p><a class="btn btn-default" href="https://www.youtube.com/watch?v=Dahf3_86qjk" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <!<img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
           <h2>Citizen Science</h2>
-          <p>Citizen Science, also die Wissenschaft durch B&uuml;rger,  ist
-  ein Werkzeug f&uuml;r die wissenschaftliche Forschung und Bildung.
-  W&auml;hrend Sie uns helfen, die unver&ouml;ffentlichter Bilder von
-  den Astronauten zu klassifizieren, k&ouml;nnen Sie viel &uuml;ber
-  die Geographie und den Blick auf die Erde bei Nacht lernen. Menschen
-  sind viel effizienter als Computer wenn es um die Erkennung von
-  Mustern geht. So kann jeder B&uuml;rger einen wesentlichen Beitrag
-  zur Forschung der Lichtverschmutzung leisten.</p>
-          <p>Wir brauchen Freiwillige, die uns helfen, die Bilder zu sortieren
-  Ort auf der Erde zu erkennen damit wir mit den Bildern eine Karte
-  der Lichtverschmutzung schaffen k&ouml;nnen. Diese wird  Regierungen
-  und lokalen Beh&ouml;rden helfen, die richtigen Entscheidungen zu
-  treffen, um die Lichtverschmutzung zu reduzieren.</p>
-          <p><a class="btn btn-default" href="http://crowdcrafting.org/app/darkskies/" role="button">Details
-  anzeigen &raquo;</a></p>
+          <p>Citizen science is a tool for scientific and educational research. While you help us classify milies of unpublished images taken by astronauts, you can learn geography of the land at night. Humans are much more efficient than computers at recognizing patterns and therefore any citizen can make a significant contribution.</p>
+          <p>We need volunteers to help us sort the pictures and identify the locations of the images to create maps of light pollution. It will help governments and local authorities to make the right decisions to reduce light pollution.</p>
+          <p><a class="btn btn-default" href="http://crowdcrafting.org/app/darkskies/" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
 
+
+      <div class="row">
+        <div class="col-lg-4">
+          <!<img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
+          <h2>Lost at Night</h2>
+          <p>Once nocturnal images are identified we need to know where are the located. With this application you can help us to know the City.</p>
+          <p>We have added a section to this <a href="#galleryLost">gallery</a> dedicated to displaying more than a thousand examples of images with cities we don't know.It is very easy, and you only have to click on the image and on the location on the map</p>
+          <p><a class="btn btn-default" href="http://crowdcrafting.org/app/LostAtNight" role="button" target="_blank">Application access &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <!<img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
+          <h2>Georreferencing Clities</h2>
+          <p>This is the last step. One we know the city location, we need a georreferencing procces.  This is a process of associating a physical map with spatial locations to the picture, where locations are represented using a coordinate reference system, in this case Longitude and Latitude. Due to the large number of images, we need your help. Some of these pictures are from unknown locations for us, and it is very difficult identify some features on the picture. We have added a section to this <a href="#galleryNight">gallery</a> dedicated to displaying more than a thousand examples of images of cities at night that have to be georreferenced.</p>
+          
+          <p><a class="btn btn-default" href="http://crowdcrafting.org/app/nightcitiesiss/" role="button">Application access&raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+      </div><!-- /.row -->
 
       <!-- START THE FEATURETTES -->
 
@@ -222,11 +200,8 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Sie wollen den Blick der Astronauten auf die
-    Erde aus dem Weltall sehen?<span class="text-muted">Kommen Sie mit uns und entdecken Sie die
-    Nacht wie nie zuvor.</span></h2>
-          <p class="lead">Mit uns k&ouml;nnen Sie die Bilder von der ISS aus dem  <a href="http://eol.jsc.nasa.gov/" target="_blank">Archiv</a> entdekcen. Und dazu beitragen, eine Karte der <a href="http://crowdcrafting.org/app/darkskies/"> Welt bei Nacht in
-  Farbe entstehen zu lassen.</a>.</p>
+          <h2 class="featurette-heading">Do you want to see what the astronauts see from the sky?<span class="text-muted">Come with us and discover the night as never before</span></h2>
+          <p class="lead">You can explore with us the <a href="http://eol.jsc.nasa.gov/">archive</a> of the images taken from the ISS and also contribute to creating a <a href="http://crowdcrafting.org/app/darkskies/"> map of the world at night in color</a>.</p>
         </div>
         <div class="col-md-5">
           <!<img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
@@ -242,10 +217,8 @@
           <img src="https://farm6.staticflickr.com/5198/14361426623_901a2ca56e.jpg" class="featurette-image img-responsive">
         </div>
         <div class="col-md-7">
-          <h2 class="featurette-heading">Wie beeinflusst mich Lichtverschmutzung
-    &uuml;berhaupt? <span class="text-muted">&Uuml;berzeugen Sie sich selbst.</span></h2>
-          <p class="lead">In diesem Bild sehen Sie, wie das Licht uns bei vielen
-  Gelegenheitenblendet. Licht in der Nacht wirkt sich auch auf unseren <a href="http://en.wikipedia.org/wiki/Light_effects_on_circadian_rhythm" target="_blank"> Schlafzyklen</a> aus und wurde selbst mit dem Auftreten hormonbedingtem <a href="http://jnci.oxfordjournals.org/content/93/20/1513.full" target="_blank">Krebs in Verbindung gebracht.</a></p>
+          <h2 class="featurette-heading">How can light pollution affect me? <span class="text-muted">See for yourself.</span></h2>
+          <p class="lead">In this picture you can see how the light blinds us in many occasions. Exposure to light at night also affects <a href="http://en.wikipedia.org/wiki/Light_effects_on_circadian_rhythm"> sleep cycles</a> and is related to some types of <a href="http://jnci.oxfordjournals.org/content/93/20/1513.full">cancer.</a></p>
         </div>
       </div>
 
@@ -253,11 +226,8 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Gibt es eine L&ouml;sung? <span class="text-muted">Ja!</span></h2>
-          <p class="lead">Es sind derzeit Technologie vorhanden,
-   die Emission von Licht unerw&uuml;nschten Orten zu verhindern.
-  Intelligente Systeme regeln das Licht automatisch in Abh&auml;ngigkeit
-  von den Bed&uuml;rfnissen. </p>
+          <h2 class="featurette-heading">Is there a solution? <span class="text-muted">Yes!!</span></h2>
+          <p class="lead">Technology currently exists to prevent the emission of light in undesirable places. Intelligent systems are also automatically regulating the light depending on need.</p>
         </div>
         <div class="col-md-5">
           <!<img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
@@ -270,14 +240,19 @@
 
             <div class="row featurette">
         <div class="col-md-5">
-          <h1> <a name="gallery">Galerie der St&auml;dte bei Nacht</a></h1>
+          <h1> <a name="gallery">Gallery of cities at night</a></h1>
          <iframe width="800" height="400" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1sxKXrg4yfmMO8Ok61UDOS_dkLc24Vj3_iHhibi4T&amp;viz=MAP&amp;h=false&amp;lat=14.893414729734994&amp;lng=-171.14102019999996&amp;t=1&amp;z=2&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
-         <p>Um es zu benutzen Sie bitte anf&uuml;hren: -Alejandro Sánchez de Miguel, José Gómez Castaño, Jaime Zamorano, Christopher CM Kyba, Sergio Pascual,M Ángeles, L Cayuela, Guillermo Martín Martinez and Peter Challupner, Atlas of astronaut photos, of Earth at night, News and Reviews in Astronomy & Geophysics, Vol. 55 no4. August 2014 (in press).</p>
-         <p>Hinweis: Nur Bilder mit CoordFLAG = 5 sind zuverl&auml;ssig..</p>
-         <p>Original bei <a href="http://www.nightcitiesiss.org"> http://www.nightcitiesiss.org</a>. 
+          <p>If you make use of this gallery, please site this article: Alejandro Sánchez de Miguel, José Gómez Castaño, Jaime Zamorano, Christopher CM Kyba, Sergio Pascual,M Ángeles, L Cayuela, Guillermo Martín Martinez and Peter Challupner, Atlas of astronaut photos, of Earth at night, News and Reviews in Astronomy & Geophysics, Vol. 55 no4. August 2014 (in press).</p>
+         <p>Note: Only images with CoordFLAG = 5 are reliable.</p>
+         <p>Original at <a href="http://www.nightcitiesiss.org"> http://www.nightcitiesiss.org</a>.
+
+        <p></p> 
+         <p><a href="http://lossofthenight.blogspot.de/2014/07/how-to-find-pictures-of-cities-at-night.html">How to use the advanced features of the Atlas</a> by <a href="http://userpage.fu-berlin.de/~kyba/">Christopher Kyba</a></p>
+         <p></p>
+        <p><a href="https://docs.google.com/forms/d/1LLpzPi9mHqU6CBPA7Vf7hRVTDxWOjjdUExfYck6F9hc/viewform"> Add here your own hand made clasifications to be included on the database</a></p>
+
         </div>
       </div>
-
       <div class="row featurette">
         <div class="col-md-8">
           <h1> <a name="galleryLost">Help us to locate cities</a></h1>
@@ -291,13 +266,14 @@ src="https://www.google.com/fusiontables/embedviz?q=select+col2+from+1lZPlhsxYmx
 
       <div class="row featurette">
         <div class="col-md-8">
-          <h1> <a name="gallery">Help us to georeference cities</a></h1>
-          <p>Click on any location you know and get access to our georeference application. Select some points on the ISS picture and the same points on the map. This information allow us to identify correctly all the features on the city. The original application at <a href="http://crowdcrafting.org/app/nightcitiesiss">http://crowdcrafting.org/app/nightcitiesiss</a></p>
+          <h1> <a name="galleryNight">Help us to georreference cities</a></h1>
+          <p>Click on any location you know and get access to our georreference application. Select some points on the ISS picture and the same points on the map. This information allow us to identify correctly all the features on the city. The original application at <a href="http://crowdcrafting.org/app/nightcitiesiss">http://crowdcrafting.org/app/nightcitiesiss</a></p>
          <iframe width="800" height="400" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col1+from+1QcbZD-ygKUqgUrz3GfH0PZLW467zTZwLse0fnmx2&amp;viz=MAP&amp;h=false&amp;lat=12.919488393199961&amp;lng=-33.79786718750006&amp;t=1&amp;z=2&amp;l=col1&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG"></iframe>
-         <p>To use it please cite: -Alejandro Sánchez de Miguel, José Gómez Castaño, Jaime Zamorano, Christopher CM Kyba, Sergio Pascual,M Ángeles, L Cayuela, Guillermo Martín Martinez and Peter Challupner, Atlas of astronaut photos, of Earth at night, News and Reviews in Astronomy & Geophysics, Vol. 55 no4. August 2014 (in press).</p>
+         <p>If you make use of this gallery, please site this article: Alejandro Sánchez de Miguel, José Gómez Castaño, Jaime Zamorano, Christopher CM Kyba, Sergio Pascual,M Ángeles, L Cayuela, Guillermo Martín Martinez and Peter Challupner, Atlas of astronaut photos, of Earth at night, News and Reviews in Astronomy & Geophysics, Vol. 55 no4. August 2014 (in press).</p>
          
         </div>
       </div>
+
 
       <hr class="featurette-divider">
       <!-- /END THE FEATURETTES -->
