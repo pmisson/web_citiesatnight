@@ -154,3 +154,11 @@ body {
     margin-top: 120px;
   }
 }
+
+.video {
+   position: relative;
+   padding-bottom: 1%;
+   overflow: hidden;
+}
+
+
