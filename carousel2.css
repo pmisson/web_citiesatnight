@@ -161,13 +161,12 @@ body {
    overflow: hidden;
 }
 
-
 #wrap { position:fixed; left:0; width:100%; top:0; height:100%; }
 #iframe { display: block; width:100%; height:100%; }
 
-.map {
-    margin: 0 0 0 0;}
-
+body {
+    margin: 5000 0 0 0;
+}
 
 #myHeader {
     position: fixed;
@@ -177,8 +176,8 @@ body {
 }
 
 #myWrapper {
-    position: fixed;
-    top: 480px;
+    position: absolute;
+    top: 100px;
     bottom: 0;
     left: 0;
     right: 0;
