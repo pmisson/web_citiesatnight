@@ -202,8 +202,8 @@ body {
 
 #myWrapper2 {
     position: absolute;
-    top:  50%;
+    top:  90%;
     bottom: 0;
     left: 0;
-    right: 70%;
+    right: 0;
 }
