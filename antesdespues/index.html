@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7 ]> <html class="ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="lt-ie10" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Madrid Barcelona Antes Despues</title>
+  <link href="css/foundation.css" rel="stylesheet" type="text/css" />
+  <link href="css/twentytwenty.css" rel="stylesheet" type="text/css" />
+</head>
+  <body>
+    <div class="row" style="margin-top: 2em;">
+    <h1>Imágenes de Antes y Despues:</h1>
+    En la actualidad de estamos sufriendo una revolución tecnológica en tecminos de iluminación.
+    Por desgracia, gran parte de este cambio se esta realizando desde colores de iluminación menos contaminantes a más contaminantes.
+    En terminos generales, cuanto más azulada es la luz, esta es <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067798" target=blank>más perjudicial</a>. 
+    </div>
+    <div class="row" style="margin-top: 2em;">
+      <div class="large-4 columns">
+        <h3>Madrid 2015/2012</h3>
+        <p>La intensidad de las imágenes no es directamente comparable, tan solo el color.*</p>
+      </div>
+      <div class="large-8 columns">
+        <div class="twentytwenty-container">
+          <img src="img/Madrid_2012.jpg" />
+          <img src="img/Madrid_2015.jpg" />
+        </div>
+        * Las imágnenes han sido procesadas a partir de las imagenes RAW originales con mismo balance de blancos. Sin embargo, el color puede variar ligeramente entre ellas debido a la extinción
+    atmosferica y otros factores instrumentales. La instansidad no ha sido ajustada. Más detalles <a href="https://www.researchgate.net/publication/280077947_Variacin_espacial_temporal_y_espectral_de_la_contaminacin_lumnica_y_sus_fuentes_Metodologa_y_resultados" target=blank>aquí</a>
+      </div>
+    </div>
+
+    <div class="row" style="margin-top: 2em;">
+      <div class="large-4 columns">
+        <h3>Barcelona 2015/2013</h3>
+        <p>La intensidad de las imágenes no es directamente comparable, tan solo el color.*</p>
+      </div>
+      <div class="large-8 columns">
+        <div class="twentytwenty-container">
+          <img src="img/Barcelona_2013.jpg" />
+          <img src="img/Barcelona_2015.jpg" />
+        </div>
+        * Las imágnenes han sido procesadas a partir de las imagenes RAW originales con mismo balance de blancos. Sin embargo, el color puede variar ligeramente entre ellas debido a la extinción
+    atmosferica y otros factores instrumentales. La instansidad no ha sido ajustada. Más detalles <a href="https://www.researchgate.net/publication/280077947_Variacin_espacial_temporal_y_espectral_de_la_contaminacin_lumnica_y_sus_fuentes_Metodologa_y_resultados" target=blank>aquí</a>
+      </div>
+    </div>
+    
+    <div class="row" style="margin-top: 2em; margin-bottom: 2em;">
+      <div class="large-4 columns">
+        <h3>Madrid 2015/2012</h3>
+        <p>La intensidad de las imágenes no es directamente comparable, tan solo el color.*</p>
+      </div>
+      <div class="large-8 columns">
+        <div class="twentytwenty-container" data-orientation="vertical">
+          <img src="img/1_2.jpg" />
+          <img src="img/1_1.jpg" />
+        </div>
+        * Las imágnenes han sido procesadas a partir de las imagenes RAW originales con mismo balance de blancos. Sin embargo, el color puede variar ligeramente entre ellas debido a la extinción
+    atmosferica y otros factores instrumentales. La instansidad no ha sido ajustada. Más detalles <a href="https://www.researchgate.net/publication/280077947_Variacin_espacial_temporal_y_espectral_de_la_contaminacin_lumnica_y_sus_fuentes_Metodologa_y_resultados" target=blank>aquí</a>
+      </div>
+    </div>
+
+    <div class="row" style="margin-top: 2em; margin-bottom: 2em;">
+      <div class="large-4 columns">
+        <h3>Barcelona 2015/2013</h3>
+        <p>La intensidad de las imágenes no es directamente comparable, tan solo el color.*</p>
+      </div>
+      <div class="large-8 columns">
+        <div class="twentytwenty-container" data-orientation="vertical">
+          <img src="img/Barcelona_2013_2.jpg" />
+          <img src="img/Barcelona_2015_2.jpg" />
+
+        </div>
+         * Las imágnenes han sido procesadas a partir de las imagenes RAW originales con mismo balance de blancos. Sin embargo, el color puede variar ligeramente entre ellas debido a la extinción
+    atmosferica y otros factores instrumentales. La instansidad no ha sido ajustada. Más detalles <a href="https://www.researchgate.net/publication/280077947_Variacin_espacial_temporal_y_espectral_de_la_contaminacin_lumnica_y_sus_fuentes_Metodologa_y_resultados" target=blank>aquí</a>
+      </div>
+    </div>
+
+
+    
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+    <script src="js/jquery.event.move.js"></script>
+    <script src="js/jquery.twentytwenty.js"></script>
+    <script>
+    $(window).load(function(){
+      $(".twentytwenty-container[data-orientation!='vertical']").twentytwenty({default_offset_pct: 0.7});
+      $(".twentytwenty-container[data-orientation='vertical']").twentytwenty({default_offset_pct: 0.3, orientation: 'vertical'});
+    });
+    </script>
+  </body>
+</html>
